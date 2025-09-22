@@ -2,4 +2,4 @@
 
 if __name__ == "__main__":
     # Change the below line to be your name.
-    print("Hello, <name>!")
+    print("Hello, Wyatt Connors!")
